@@ -1,3 +1,5 @@
+
+![alt text](https://raw.githubusercontent.com/Kassan424kh/flutterviewInAndroidActivity/master/Designs/FlutterViewInAndroidActivity.png)
 ## Sample example how `FlutterView` in a android activity can be used
 
 ### Finded info locations:
