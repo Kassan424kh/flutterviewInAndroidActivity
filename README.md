@@ -149,8 +149,3 @@
   ```
   8. In the `app/main/AndroidMainifest.xml` set `@style/Theme.AppCompat` instead of `@style/FooBar`
   9. Start the app and look if all things work's fine.
-  10. if: 
-        🎉
-      else:
-        write me a message or 😅 search on google after the problem.
-        My Mail address is -> dev.khalilkhalil@gmail.com
